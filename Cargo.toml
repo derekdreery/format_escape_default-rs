@@ -1,11 +1,11 @@
 [package]
 name = "format_escape_default"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Richard Dodd <richard.dodd@itp-group.co.uk>"]
 include = ["Cargo.toml", "src/lib.rs"]
 description = """A library for printing (formatting) arbitrary byte arrays
 using `std::ascii::escape_default`."""
-repository = "https://github.com/derekdreery/format_escape_default"
+repository = "https://github.com/derekdreery/format_escape_default-rs"
 readme = "README.md"
 keywords = ["ascii", "escape_default", "format", "fmt"]
 categories = ["text-processing"]
